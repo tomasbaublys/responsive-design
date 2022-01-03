@@ -68,6 +68,10 @@ p {
     margin-bottom: 3.5rem;
 }
 
+.card__footer p {
+    font-size: .8rem;
+}
+
 @media (max-width: 950px) {
 
     .column__left {
